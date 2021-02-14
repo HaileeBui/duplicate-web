@@ -1,2 +1,2 @@
 # duplicate-web
-pretash
+Pre task for front-end
